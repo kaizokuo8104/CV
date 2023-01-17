@@ -1,0 +1,111 @@
+
+/* https://colorhunt.co/palette/4721834b56d282c3ecf1f6f5 */
+
+body {
+   margin: 0px;
+   text-align: center;
+   color: #13005A;
+   font-family: 'Caveat', cursive;
+   background-color: #F1F6F5;
+}
+
+.name_container{
+   position: relative;
+   padding: 100px 0;
+   
+}
+
+.gradient{
+   background:linear-gradient(271deg,#a0e9ff 30%,#a162e8 50%,#f093b0 70%,#edca85 94%);
+   background-clip: text;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+.name{
+   font-family: 'Sacramento', cursive;
+   font-size: 5.625rem;
+   margin: 0 auto;
+   width: auto;
+   font-weight: normal;
+
+}
+
+.designation{
+   width: auto;   
+
+}
+
+h1{
+   font-family: 'Dancing Script', cursive;
+   font-weight: normal;
+
+}
+
+h2{
+   font-family: 'Dancing Script', cursive;
+   font-size: 2.5rem;
+   font-weight: normal;
+}
+
+h3{
+   font-family: 'Dancing Script', cursive;
+   margin: 0;
+}
+
+p{
+   line-height: 2;
+   font-size: 1.2rem;
+   margin: 0;
+}
+
+.middle_container{
+   position: relative;
+}
+
+.skills{
+   position: relative;
+   width: 100%;
+}
+
+.skill-row{
+   display: inline-block;
+   margin: 0 auto;
+   padding: 20px;
+}
+
+.experience{
+   position: relative;
+   width: 100%;
+}
+
+.experience-row{
+   display: inline-block;
+   margin: 20px auto;
+   text-align: left;
+   width: 40%;
+}
+
+.DXC{
+   float: left;
+   margin: 20px 30px 0 0;
+}
+
+.btn{
+   margin: 0 20px;
+}
+
+.bottom-container{
+   position: relative;
+   padding: 10px 0;
+}
+
+.footer{
+   position: absolute;
+   right: 5%;
+}
+
+.profile{
+   margin: 0;
+}
+
